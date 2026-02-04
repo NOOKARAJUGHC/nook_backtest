@@ -1,0 +1,17 @@
+Chose survival over ego
+A strategy that lets you sleep is better than a strategy that looks good.
+Your entry has short-term direction, but not instant momentum.
+
+1. Small profits but Big losses
+2. Should I use SL or wait till EOD
+3. Should I stick to 1 trade per day
+4. Should I test the Trailing profit and SL
+5. Should I test the EMA combos
+6. Am I misunderstanding the FEES and Slippage?
+7. Can I beat the fees , if I do multiple per day?
+8. In algo trading are trades checking by minute candles or second by second?
+9. Should I go for SL even if it reduces the WinRate ? I think this cannot be the ISSUE if I do more than 2trades daily?
+10. Should I try different TP and SL ?
+11. Should I exit if no TP in 10 minutes?
+12. 
+
