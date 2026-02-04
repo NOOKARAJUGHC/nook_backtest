@@ -1,0 +1,16 @@
+# Virtual environment
+vectorenv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Excel temp files
+# ~$*.xlsx
