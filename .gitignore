@@ -1,5 +1,6 @@
 # Virtual environment
 vectorenv/
+vectorenv2/
 
 # Jupyter
 .ipynb_checkpoints/
