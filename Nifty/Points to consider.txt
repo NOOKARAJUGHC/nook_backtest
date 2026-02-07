@@ -9,9 +9,15 @@ Your entry has short-term direction, but not instant momentum.
 5. Should I test the EMA combos
 6. Am I misunderstanding the FEES and Slippage?
 7. Can I beat the fees , if I do multiple per day?
-8. In algo trading are trades checking by minute candles or second by second?
+8. In algo trading , are trades checking by minute candles or second by second?
 9. Should I go for SL even if it reduces the WinRate ? I think this cannot be the ISSUE if I do more than 2trades daily?
 10. Should I try different TP and SL ?
 11. Should I exit if no TP in 10 minutes?
-12. 
+12. Should I trade on specific times (9:30am to 10:00am , 11am to 11:30 am, 1:pm to 2pm) for scaliping
+13. If i put Trailing SL or profit in algo trading platform , generally algo trading platforms trigger after 1minute 
+     candle available , but will this trigger based on algo trading platform or broker platform in live where every second prices changes
+14. Options every month last week premium decay structure. (Required more research)
+15. Pre-market opening and settlement market 9-9:15 , 9:15-9:30, 3:15-3:30, 3:30 - 4
+16. What if i put trailing SL at broker level , how does live Algo trading strategy knows that trade exited at broker level
+17. Should i make a call Entry should be after 9:30am and worst exit at 2:50pm - 2:55pm 
 
